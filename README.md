@@ -19,58 +19,66 @@ odd2013
 
 我們迫切需要你的協助，比方說：
 
-程式開發者：我們需要程式高手來把資料設計的更為有用。這可能是資料的視覺化、更新和整合等，越瘋狂，越棒，越好
-設計/使用者經驗： 我們需要像你一樣可以把事情變得很棒、很友善，並且強調體貼的使用者經驗。如果全世界最好的應用是沒有人可以用的... 那就是沒用！妳知道怎麼辦到這件事。
-圖書資訊與管理業者：聽說妳們會把看書和整理資料當成早餐吃。妳們這群美麗的工作者一定知道怎麼從世界中發掘更美好的資料，並且幫助其他人找出重要且有用的資訊。
-統計工作者/學家：是的！不要懷疑！當我們想找到資料、整理資料、計算資料，或是讓資料看起來更美味，我們需要你們強大的統計觀念和技巧，讓資料可以被視覺化。加入吧。
-資料科學家
-市民：要不是因為有偉大的市民，我們才不幹這件事，我們需要點子，渴望真實的需求，可以協助我們廣為的宣傳的朋友和啦啦隊。
-非政府組織工作者
-政府組織工作者
+* 程式開發者：我們需要程式高手來把資料設計的更為有用。這可能是資料的視覺化、更新和整合等，越瘋狂，越棒，越好
+* 設計/使用者經驗： 我們需要像你一樣可以把事情變得很棒、很友善，並且強調體貼的使用者經驗。如果全世界最好的應用是沒有人可以用的... 那就是沒用！妳知道怎麼辦到這件事。
+* 圖書資訊與管理業者：聽說妳們會把看書和整理資料當成早餐吃。妳們這群美麗的工作者一定知道怎麼從世界中發掘更美好的資料，並且幫助其他人找出重要且有用的資訊。
+* 統計工作者/學家：是的！不要懷疑！當我們想找到資料、整理資料、計算資料，或是讓資料看起來更美味，我們需要你們強大的統計觀念和技巧，讓資料可以被視覺化。加入吧。
+* 資料科學家
+* 市民：要不是因為有偉大的市民，我們才不幹這件事，我們需要點子，渴望真實的需求，可以協助我們廣為的宣傳的朋友和啦啦隊。
+* 非政府組織工作者
+* 政府組織工作者
+
 活動資訊
 
-日期：2013年2月24日
-時間：09:00 ~ 18:00 (GMT +8)
-主辦單位：Code for Tomorrow
-協辦單位：SYSTEX, Etu
-場地：精誠資訊大樓 B1F，台北市內湖區瑞光路318號
-協力單位：OpenStreetMap Taiwan, XD Crossdesign, Chinese Academy of R Software
-活動標籤：#opendataday
-請注意，因場地因素，我們不接受現場報名
+* 日期：2013年2月24日
+* 時間：09:00 ~ 18:00 (GMT +8)
+* 主辦單位：Code for Tomorrow
+* 協辦單位：SYSTEX, Etu
+* 場地：精誠資訊大樓 B1F，台北市內湖區瑞光路318號
+* 協力單位：OpenStreetMap Taiwan, XD Crossdesign, Chinese Academy of R Software
+* 活動標籤：#opendataday
+* 請注意，因場地因素，我們不接受現場報名
+
 活動內容
 
-09:00 - 報到
-09:45 - 活動說明
-10:00 - Lightening Talks
-10:45 - 配對時間 & Hacking & OSM 工作坊 & R 講座
-12:30 - 午餐（現場提供）
-16:45 - 當日成果展示
-18:00 - 結束 
+* 09:00 - 報到
+* 09:45 - 活動說明
+* 10:00 - Lightening Talks
+* 10:45 - 配對時間 & Hacking & OSM 工作坊 & R 講座
+* 12:30 - 午餐（現場提供）
+* 16:45 - 當日成果展示
+* 18:00 - 結束 
+
 交通
 
-停車：對面有台北花市露天停車場，內科路邊假日都有空位
-捷運：捷運港墘站8分鐘步行
-公車：台北花市站
+* 停車：對面有台北花市露天停車場，內科路邊假日都有空位
+* 捷運：捷運港墘站8分鐘步行
+* 公車：台北花市站
+
 全球活動過去支援單位
 
-英國開放知識基金會 Open Knowledge Foundation http://okfn.org
-美國聯邦開放資料網站 Data.gov/White House http://data.gov
-美國白宮，今年的活動說明
-世界銀行 World Bank http://data.worldbank.org
-爬資料維基 ScraperWiki https://scraperwiki.com/
+* 英國開放知識基金會 Open Knowledge Foundation http://okfn.org
+* 美國聯邦開放資料網站 Data.gov/White House http://data.gov
+* 美國白宮，今年的活動說明
+* 世界銀行 World Bank http://data.worldbank.org
+* 爬資料維基 ScraperWiki https://scraperwiki.com/
+
 其實太多了根本舉不完......
+
 看看我們在做什麼？
 
-Open Data Day 活動開放籌備網址 https://hackpad.com/Open-Data-Day-UOmcqhdG9mp 
-Open Data Day 工作白板 https://trello.com/board/open-data-day/5100927057a5c27b29000372
-開放資料應用案例
-IRC: Freenode #codefortomorrow
+* Open Data Day 活動開放籌備網址 https://hackpad.com/Open-Data-Day-UOmcqhdG9mp 
+* Open Data Day 工作白板 https://trello.com/board/open-data-day/5100927057a5c27b29000372
+* 開放資料應用案例
+* IRC: Freenode #codefortomorrow
+
 Code for Tomorrow
 
-網站 codefortomorrow.org
-論壇 groups.google.com/group/codefortomorrow
-Facebook www.facebook.com/CodeForTomorrow
-Google+ https://plus.google.com/u/0/107235637266618007879/posts
+* 網站 codefortomorrow.org
+* 論壇 groups.google.com/group/codefortomorrow
+* Facebook www.facebook.com/CodeForTomorrow
+* Google+ https://plus.google.com/u/0/107235637266618007879/posts
+
 其他
 
 由於本活動由社群自發性舉辦，因此若有不周之處，敬請見諒。請注意，因場地因素，我們不接受現場報名。
